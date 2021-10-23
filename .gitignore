@@ -4,3 +4,4 @@
 
 /.vs/ApiGateway
 /ApiGateway/obj
+/ApiGateway/bin/Debug/net5.0
