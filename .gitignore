@@ -5,3 +5,5 @@
 /.vs/ApiGateway
 /ApiGateway/obj
 /ApiGateway/bin/Debug/net5.0
+/ApiGateway/bin/Release/net5.0
+/ApiGateway/Properties/PublishProfiles
